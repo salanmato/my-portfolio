@@ -15,7 +15,7 @@ const Item = () => {
                 <p className='project-tags'>{project.tags.join(' - ')}</p>
                 <h6 className='project-status'>{project.status}</h6>
                 <h4 className='project-description'>{project.description}</h4>
-                <img src={project.image} className='project-img' />
+                {project.image && <img src={project.image} className='project-img' />}
 
                 {project.links.github && <p  ><a className='project-links' href={project.links.github}>Github: {project.links.github} </a></p>}
                 {project.links.site && <p > <a href={project.links.site} className='project-links'>Projeto: {project.links.site}</a></p>}
