@@ -1,0 +1,43 @@
+.items-container{
+    margin-top: 72px;
+}
+
+h3, h4, h5, p {
+    color: #375B25;
+
+}
+
+.item-title{
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    margin: 0;
+}
+
+.item-status{
+    font-style: italic;
+    margin: 0;
+    font-size: 16px;
+}
+
+.item-description{
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 4px;
+    margin-bottom: 20px;
+}
+
+
+.item-tags{
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+    color: #375B25;
+}
+
+.project-container{
+    border: 1px solid #375B25;
+    border-radius: 20px;
+    padding: 16px;
+    margin-bottom: 16px;
+}

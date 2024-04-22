@@ -1,0 +1,29 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: normal;
+    margin: 72px;
+
+}
+
+span{
+    font-weight: bold;
+}
+
+.container-links {
+    display: block;
+    margin: 0 72px 0 72px;
+}
+
+.link{
+    font-size: 24px;
+    color: #375B25;
+}
+
+.link:visited{
+    color: black;
+}

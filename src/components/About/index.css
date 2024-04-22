@@ -1,0 +1,55 @@
+.about-container{
+    margin: 72px;
+    margin-top: 24px;
+    text-align: left;
+    justify-content: left;
+}
+
+.title{
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    margin: 0;
+}
+
+.aboutme-text{
+    font-size: 20px;
+    font-weight: normal;
+    margin-top: 4px;
+}
+
+h3, h4, h5, p {
+    color: #375B25;
+
+}
+
+h2{
+    color:black;
+    margin-top: 40px;
+    margin-bottom: 08px;
+}
+
+
+h4{
+    margin-top: -20px;
+    margin-bottom: 20px;
+}
+h5{
+    margin-top: -16px;
+}
+
+p{
+    font-size: 16px;
+    margin-top: -16px;
+    font-weight: normal;
+    color: #375B25;
+}
+
+.link{
+    font-size: 20px;
+    color: #375B25;
+}
+
+.link:visited{
+    color: black;
+}
