@@ -7,7 +7,7 @@ const Item = ({project}) => {
             <h1 className='project-title'>{project.title}</h1>
             <h6>{project.status}</h6>
             <h4>{project.description}</h4>
-            <img src={project.image} />
+            <img src={project.image} className='project-img'/>
             <p>{project.tags.join(' - ')}</p>
             {project.links.github && <a href={project.links.github}><p>Github: {project.links.github}</p></a>}
             {project.links.site && <a href={project.links.site}><p>Projeto: {project.links.site}</p></a>}
