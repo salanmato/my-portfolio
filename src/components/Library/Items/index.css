@@ -7,6 +7,10 @@ h3, h4, h5, p {
 
 }
 
+.project-link{
+    text-decoration: none;
+}
+
 .item-title{
     font-size: 24px;
     font-weight: bold;

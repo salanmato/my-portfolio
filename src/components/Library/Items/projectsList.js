@@ -15,7 +15,7 @@ const projectsList = [
         title: '5movies',
         status: 'Concluído',
         image: '',
-        description: '',
+        description: 'Aplicativo que te ajuda a escolher um filme.\nVocê escolhe um  ator/diretor/produtor ou filme, e ele te retorna 5 filme relacionados a sua busca.',
         links: {
             site: 'https://5movies.vercel.app/',
             github: 'https://github.com/salanmato/5movies'
@@ -26,7 +26,7 @@ const projectsList = [
         title: 'researchbc',
         status: 'Concluído',
         image: '',
-        description: '',
+        description: 'Aplicativo desenvolvido como trabalho para a disciplina Data Center.\n Nosso objetivo era criar algo que alimentasse e consumisse um banco de dados no servidor.\n Utilizamos JavaScript, HTML e CSS para construir uma página contendo um formulário, um gráfico para visualização rápida das respostas e uma tabela com todas as respostas. Para comunicação entre a página e o banco de dados MySQL, usamos Node.js + Express.',
         links: {
             site: 'https://researchbc.vercel.app/',
             github: 'https://github.com/salanmato/researchbc'
