@@ -3,7 +3,7 @@ const projectsList = [
     {
         title: 'RandoMovie',
         status: 'Em Andamento',
-        image: `./images/RandoMovie-image.jpg`,
+        image: `images/RandoMovie-image.jpg`,
         description: 'Aplicativo que te ajuda a escolher um filme.\nVocê decide o gênero e o streaming, e o filme é sorteado para você.',
         links: {
             site: '',
