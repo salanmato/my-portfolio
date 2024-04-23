@@ -1,9 +1,20 @@
 
 const projectsList = [
     {
+        title: 'Meu Portfólio',
+        status: 'Em Andamento',
+        image: ``,
+        description: 'Meu portfólio',
+        links: {
+            site: 'https://salanmato.vercel.app/',
+            github: 'https://github.com/salanmato/myportfolio'
+        },
+        tags: ["React JavaScript", 'JavaScript', 'HTML', 'CSS']
+    },
+    {
         title: 'RandoMovie',
         status: 'Em Andamento',
-        image: `images/RandoMovie-image.jpg`,
+        image: `./images/RandoMovie.jpg`,
         description: 'Aplicativo que te ajuda a escolher um filme.\nVocê decide o gênero e o streaming, e o filme é sorteado para você.',
         links: {
             site: '',
