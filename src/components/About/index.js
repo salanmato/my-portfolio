@@ -14,7 +14,9 @@ const About = () => {
         <p className="aboutme-text">
           O mais importante aqui é que o nome do meu cachorro é Chuck Norris Valdívia. Uni duas coisas que gosto muito: o Palmeiras e o cinema.
           Meus hobbies são assistir jogos do Palmeiras, passar 5 minutos para escolher entre um filme coreano de 3 horas e um do Guy Ritchie, e jogar vídeo-game.
-          Sim, eu sorteio a maioria dos filmes que assisto.
+          Sim, eu sorteio a maioria dos filmes que assisto. Escuto música para trabalhar e isso implica que estou sempre ouvindo algo novo. 
+          Adoro desenvolver soluções, desde as mais simples até algo mais complexo, desde que resolva o problema.
+          Sempre estou em busca de aprender algo novo, ás vezes não estou buscando mas aprendo algo.
         </p>
 
         <Empregos></Empregos>

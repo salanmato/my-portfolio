@@ -7,7 +7,6 @@ h1{
     font-size: 48px;
     font-weight: normal;
     margin: 72px;
-
 }
 
 span{
@@ -20,7 +19,7 @@ span{
 }
 
 .link{
-    font-size: 24px;
+    font-size: 28px !important;
     color: #375B25;
 }
 

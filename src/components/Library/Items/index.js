@@ -18,7 +18,7 @@ const Items = ({ arrFilters }) => {
         <div className="items-container">
             {projects.map((project, key) => {
                 return (
-                    <Link to={{ pathname: `/library/${project.title}` }} state={{ project: project }} className="project-link">
+                    <Link to={{ pathname: `/library/${project.slug}` }} state={{ project: project }} className="project-link">
                         <div key={key} className="project-container">
 
                             <h1 className="item-title">{project.title}</h1>
