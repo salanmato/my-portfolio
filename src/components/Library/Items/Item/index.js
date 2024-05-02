@@ -15,10 +15,11 @@ const Item = () => {
                 <p className='project-tags'>{project.tags.join(' - ')}</p>
                 <h6 className='project-status'>{project.status}</h6>
                 <h4 className='project-description'>{project.description}</h4>
-                {project.image && <img src={`${process.env.PUBLIC_URL}/images/${project.image}.jpg`} className='project-img' />}
-
                 {project.links.github && <p  ><a className='project-links' href={project.links.github}>Github</a></p>}
                 {project.links.site && <p > <a href={project.links.site} className='project-links'>Site do Projeto</a></p>}
+                {project.image && <img src={`${process.env.PUBLIC_URL}/images/${project.image}.jpg`} className='project-img' />}
+
+                
             </div>
         </div>
     )

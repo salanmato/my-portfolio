@@ -28,7 +28,7 @@ const projectsList = [
         slug: '5movies',
         status: 'Concluído',
         image: '5movies',
-        description: 'Aplicativo que te ajuda a escolher um filme.\nVocê escolhe um  ator/diretor/produtor ou filme, e ele te retorna 5 filme relacionados a sua busca.',
+        description: 'Aplicativo que te ajuda a escolher um filme.\nVocê escolhe um  ator/diretor/produtor ou filme, e ele te retorna 5 filmes relacionados a sua busca.',
         links: {
             site: 'https://5movies.vercel.app/',
             github: 'https://github.com/salanmato/5movies'
