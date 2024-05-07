@@ -12,11 +12,11 @@ const About = () => {
       <div className="about-container">
         <h1 className="title">SOBRE</h1>
         <p className="aboutme-text">
-          O mais importante aqui é que o nome do meu cachorro é Chuck Norris Valdívia e ele tem quase 20 anos de idade. Na escolha do nome uni duas coisas que gosto muito: o Palmeiras e o cinema.\n
+          O mais importante aqui é que o nome do meu cachorro é Chuck Norris Valdívia e ele tem quase 20 anos de idade. Na escolha do nome uni duas coisas que gosto muito: o Palmeiras e o cinema.<br/>
           Alguns dos meus hobbies são assistir jogos do Palmeiras, passar 5 minutos para escolher entre um filme coreano de 3 horas e um do Guy Ritchie, e jogar vídeo-game.
-          Quando não estou entre esses dois tipos de filme, sorteio os filmes que assisto.\nEscuto música para trabalhar, e isso implica que estou sempre ouvindo algo novo. 
-          Adoro desenvolver soluções, desde as mais simples até algo mais complexo, desde que resolva o problema.
-          Sempre estou em busca de aprender algo novo, então algumas atividades que gosto também envolvem aprendizado, desenhar, pintar, regras de esportes que não ter ninguém para comentar sobre, e porque existem tantos jogadores coreanos de Tekken de alto nível. 
+          Quando não estou entre esses dois tipos de filme, sorteio os filmes que assisto.<br/>Escuto música para trabalhar, e isso implica que estou sempre ouvindo algo novo. 
+          Adoro desenvolver soluções, desde as mais simples até algo mais complexo, desde que resolva o problema.<br/>
+          Então estou em busca de aprender algo novo, então algumas atividades que gosto também envolvem aprendizado, desenhar, pintar, regras de esportes que não ter ninguém para comentar sobre, e porque existem tantos jogadores coreanos de Tekken de alto nível. 
           Sou do tipo de pessoa que sabe um pouquinho de tudo.
         </p>
 
