@@ -15,8 +15,8 @@ const About = () => {
           O mais importante aqui é que o nome do meu cachorro é Chuck Norris Valdívia e ele tem quase 20 anos de idade. Na escolha do nome uni duas coisas que gosto muito: o Palmeiras e o cinema.<br/>
           Alguns dos meus hobbies são assistir jogos do Palmeiras, passar 5 minutos para escolher entre um filme coreano de 3 horas e um do Guy Ritchie, e jogar vídeo-game.
           Quando não estou entre esses dois tipos de filme, sorteio os filmes que assisto.<br/>Escuto música para trabalhar, e isso implica que estou sempre ouvindo algo novo. 
-          Adoro desenvolver soluções, desde as mais simples até algo mais complexo, desde que resolva o problema.<br/>
-          Estou sempre em busca de aprender algo novo, então algumas atividades que gosto também envolvem aprendizado, desenhar, pintar, saber regras de esportes que não ter ninguém para comentar sobre, e entender porque existem tantos jogadores coreanos de Tekken de alto nível. 
+          Adoro desenvolver soluções, desde as mais simples até algo mais complexo, desde que resolva o problema em questão.<br/>
+          Estou sempre em busca de aprender algo novo, algumas das atividades que mais gosto envolvem aprendizado, como: desenhar, pintar, saber regras de esportes que não ter ninguém para comentar sobre, e entender porque existem tantos jogadores coreanos de Tekken de alto nível. 
           Sou do tipo de pessoa que sabe um pouquinho de tudo.
         </p>
 

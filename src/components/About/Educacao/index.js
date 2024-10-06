@@ -10,7 +10,7 @@ const Educacao = () => {
         {
             curso: "Produção Multimídia",
             escola: "FMU|FIAM-FAAM",
-            tempo: "Janeiro 2018 - Dezembro 2019"
+            tempo: "Janeiro 2017 - Dezembro 2018"
         }
 
     ]

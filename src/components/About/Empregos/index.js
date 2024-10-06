@@ -3,11 +3,18 @@ const Empregos = () => {
 
     const empregos = [
         {
+            cargo: "Estagiário de TI ",
+            empresa: "Do Analytics",
+            local: "São Paulo - SP",
+            tempo: "Setembro 2024 - Atual ",
+            atividades: ["Criação de layouts para dashboards em Power BI - Figma", "Criação de Interfaces para páginas e aplicativos Web - Figma", "Criação de features a atualização de páginas no portal - js, html e css", "Desenvolvimento FrontEnd  - js, html e css"]
+        },
+        {
             cargo: "Programador Júnior ",
             empresa: "Construtivo.com do Brasil",
             local: "São Paulo - SP",
             tempo: "Janeiro 2024 - Fevereiro 2024 ",
-            atividades: ["Uso da biblioteca Joint.js para criação de visualizadores de Workflow - js, html e css", "Criação de templates para documentos - js, html e css - js, html e css", "Correção de bugs na plataforma colaborativo - js, html e css"]
+            atividades: ["Uso da biblioteca Joint.js para criação de visualizadores de Workflow - js, html e css", "Criação de templates para documentos - js, html e css ", "Correção de bugs na plataforma colaborativo - js, html e css"]
         },
         {
             cargo: "Designer Gráfico",
