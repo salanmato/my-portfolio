@@ -15,7 +15,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <div className='img-space'></div>
+            { /*<div className='img-space'></div> */}
         </div>
     );
 };
